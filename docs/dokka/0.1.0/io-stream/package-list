@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.klibs.io////PointingToDeclaration/io-stream/io.klibs.io/index.html
+$dokka.location:io.klibs.io/ByteReader///PointingToDeclaration/io-stream/io.klibs.io/-byte-reader/index.html
+$dokka.location:io.klibs.io/ByteReader/read/#kotlin.ByteArray#kotlin.Int#kotlin.Int/PointingToDeclaration/io-stream/io.klibs.io/-byte-reader/read.html
+$dokka.location:io.klibs.io/ByteWriter///PointingToDeclaration/io-stream/io.klibs.io/-byte-writer/index.html
+$dokka.location:io.klibs.io/ByteWriter/write/#kotlin.ByteArray#kotlin.Int#kotlin.Int/PointingToDeclaration/io-stream/io.klibs.io/-byte-writer/write.html
+io.klibs.io
+
