@@ -41,7 +41,8 @@ interface ByteReader {
    *
    * Default: `buffer.size - offset`
    *
-   * @return The number of bytes read from the underlying stream
+   * @return The number of bytes read from the underlying stream or `-1` if the
+   * end of the stream has already been reached.
    */
   fun read(buffer: ByteArray, offset: Int = 0, max: Int = buffer.size - offset): Int
 }
