@@ -1,0 +1,14 @@
+= K-IO-Streams
+:source-highlighter: highlightjs
+:lib-version: 0.1.0
+
+Basic, pure Kotlin interfaces for low-level input and output byte streams to be
+implemented in platform specific code.
+
+== Import
+
+.build.gradle.kts
+[source, kotlin, subs="attributes"]
+----
+  implementation("io.k-libs:io-streams:{lib-version}")
+----

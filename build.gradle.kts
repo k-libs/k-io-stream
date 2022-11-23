@@ -85,7 +85,7 @@ publishing {
 
       pom {
         name.set("K-IOStreams")
-        description.set("IO stream definition types.")
+        description.set(project.description)
         url.set("https://github.com/k-libs/k-io-stream")
 
         licenses {
